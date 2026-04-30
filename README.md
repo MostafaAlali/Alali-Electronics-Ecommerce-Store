@@ -38,7 +38,7 @@ Comparison of sales and order distribution across regions.
 
 # 📁 Data Sources
 
-- 📊 Tableau Dashboard: [Link Text](https://public.tableau.com/app/profile/mostafa.alali/viz/Alali-Electronics-Ecommerce-Store/dashpord)
+- 📊 Tableau Dashboard: [Link Dashboard](https://public.tableau.com/app/profile/mostafa.alali/viz/Alali-Electronics-Ecommerce-Store/dashpord)
 - 📦 Raw Data: [orders_data_raw_sheet](work_book/Alali_Analysis.xlsx)  
 - 🧹 Clean Data: [orders_data_clean_sheet](work_book/Alali_Analysis.xlsx) 
 - ⚠️ Issues Log: [issues_log_sheet](work_book/Alali_Analysis.xlsx) 
