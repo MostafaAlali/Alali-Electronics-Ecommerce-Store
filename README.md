@@ -38,11 +38,11 @@ Comparison of sales and order distribution across regions.
 
 # 📁 Data Sources
 
-- 📊 PowerBI Dashboard: [link]  
-- 📦 Raw Data: [orders_data_raw](link)  
-- 🧹 Clean Data: [orders_data_clean](link)  
-- ⚠️ Issues Log: [issues_log](link)  
-- 📈 Insights & Recommendations: [insights_tab](link)  
+- 📊 Tableau Dashboard: [Link Text](https://public.tableau.com/app/profile/mostafa.alali/viz/Alali-Electronics-Ecommerce-Store/dashpord)
+- 📦 Raw Data: [orders_data_raw_sheet](work_book/Alali_Analysis.xlsx)  
+- 🧹 Clean Data: [orders_data_clean_sheet](work_book/Alali_Analysis.xlsx) 
+- ⚠️ Issues Log: [issues_log_sheet](work_book/Alali_Analysis.xlsx) 
+- 📈 Insights & Recommendations: [insights_tab_sheet](work_book/Alali_Analysis.xlsx)  
 
 ---
 
