@@ -73,7 +73,8 @@ Between 2019 and 2022, total sales reached approximately **$24M**, with monthly 
 - Weak categories: Apple iPhone + SoundSport (~$200K)  
 
 ## ⚠️ Key Risk
-- Heavy dependency on a small number of high-performing products  
+- Heavy dependency on a small number of high-performing products
+  
 <img width="1194" height="545" alt="piovt_table_1" src="https://github.com/user-attachments/assets/ce12e641-5f28-400c-9ad8-4b6e06836f1d" />
 
 ---
@@ -87,8 +88,9 @@ Between 2019 and 2022, total sales reached approximately **$24M**, with monthly 
   - Feb 2021  
   - Sep 2021  
   - Feb 2022  
-- Post-2021 trend returns toward pre-COVID levels  
-<img width="987" height="519" alt="overall_USD" src="https://github.com/user-attachments/assets/e80e0269-129d-427f-9b72-0e92c35f17c5" />
+- Post-2021 trend returns toward pre-COVID levels
+
+  <img width="982" height="517" alt="prouduct_usd" src="https://github.com/user-attachments/assets/06cf884b-c99b-4c4e-9b12-3592485e3dbe" />
 
 ---
 
@@ -102,7 +104,8 @@ Between 2019 and 2022, total sales reached approximately **$24M**, with monthly 
 
 📌 Insight:  
 Revenue decline is structural across core products, not isolated.
-<img width="982" height="517" alt="product_usd" src="https://github.com/user-attachments/assets/e169d647-7d23-49f3-8dab-7e5e1f08bf29" />
+
+<img width="982" height="517" alt="prouduct_usd" src="https://github.com/user-attachments/assets/c4db8866-158b-4e12-98c5-c25c112c0ac1" />
 
 ---
 
@@ -112,6 +115,7 @@ Revenue decline is structural across core products, not isolated.
 
 📌 Insight:  
 High dependency on Direct traffic creates strategic risk and limits growth scalability.
+
 <img width="984" height="520" alt="markiting_usd" src="https://github.com/user-attachments/assets/cedd3702-982e-4bfe-95f2-6a8fe2f8f091" />
 
 ---
@@ -121,6 +125,7 @@ High dependency on Direct traffic creates strategic risk and limits growth scala
 
 📌 Insight:  
 This reflects a **global/macroeconomic trend**, not regional weakness.
+
 <img width="979" height="528" alt="region_usd" src="https://github.com/user-attachments/assets/a74700d0-b551-447a-8864-de8dabb1c4ed" />
 
 ---
@@ -132,7 +137,8 @@ This reflects a **global/macroeconomic trend**, not regional weakness.
 📌 Possible Causes:
 - Funnel / UX changes  
 - Competitive pressure  
-- Regional demand shift (North America)  
+- Regional demand shift (North America)
+  
 <img width="983" height="514" alt="prouduct_usd_markiting" src="https://github.com/user-attachments/assets/8e0631eb-a58c-4ab9-903c-6842994af74b" />
 
 ---
@@ -143,6 +149,7 @@ This reflects a **global/macroeconomic trend**, not regional weakness.
 
 📌 Insight:  
 Issue is **localized to NA**, not global.
+
 <img width="981" height="535" alt="prouduct_usd_region" src="https://github.com/user-attachments/assets/9b689a92-9789-4ec3-93f0-19a2aee7db3e" />
 
 ---
