@@ -75,7 +75,8 @@ Between 2019 and 2022, total sales reached approximately **$24M**, with monthly 
 ## ⚠️ Key Risk
 - Heavy dependency on a small number of high-performing products
   
-<img width="1194" height="545" alt="piovt_table_1" src="https://github.com/user-attachments/assets/ce12e641-5f28-400c-9ad8-4b6e06836f1d" />
+<img width="1194" height="545" alt="piovt_table_1" src="https://github.com/user-attachments/assets/f2a678fa-72fc-4d38-ada2-43e8a6349f75" />
+
 
 ---
 
@@ -116,7 +117,8 @@ Revenue decline is structural across core products, not isolated.
 📌 Insight:  
 High dependency on Direct traffic creates strategic risk and limits growth scalability.
 
-<img width="984" height="520" alt="markiting_usd" src="https://github.com/user-attachments/assets/cedd3702-982e-4bfe-95f2-6a8fe2f8f091" />
+<img width="984" height="520" alt="markiting_usd" src="https://github.com/user-attachments/assets/e1db09bc-a692-4251-bc57-1726900b44d8" />
+
 
 ---
 
@@ -126,7 +128,8 @@ High dependency on Direct traffic creates strategic risk and limits growth scala
 📌 Insight:  
 This reflects a **global/macroeconomic trend**, not regional weakness.
 
-<img width="979" height="528" alt="region_usd" src="https://github.com/user-attachments/assets/a74700d0-b551-447a-8864-de8dabb1c4ed" />
+<img width="979" height="528" alt="region_usd" src="https://github.com/user-attachments/assets/cde00816-2bd5-4cf4-ac68-65f204cab914" />
+
 
 ---
 
@@ -139,7 +142,8 @@ This reflects a **global/macroeconomic trend**, not regional weakness.
 - Competitive pressure  
 - Regional demand shift (North America)
   
-<img width="983" height="514" alt="prouduct_usd_markiting" src="https://github.com/user-attachments/assets/8e0631eb-a58c-4ab9-903c-6842994af74b" />
+<img width="983" height="514" alt="prouduct_usd_markiting" src="https://github.com/user-attachments/assets/dbaa0b13-5e07-4557-b613-86433f69781b" />
+
 
 ---
 
@@ -150,7 +154,7 @@ This reflects a **global/macroeconomic trend**, not regional weakness.
 📌 Insight:  
 Issue is **localized to NA**, not global.
 
-<img width="981" height="535" alt="prouduct_usd_region" src="https://github.com/user-attachments/assets/9b689a92-9789-4ec3-93f0-19a2aee7db3e" />
+<img width="981" height="535" alt="prouduct_usd_region" src="https://github.com/user-attachments/assets/c0e1d9b6-21d6-4641-b04f-7200330a7487" />
 
 ---
 
