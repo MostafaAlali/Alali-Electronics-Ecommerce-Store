@@ -97,7 +97,7 @@ Between 2019 and 2022, total sales reached approximately **$24M**, with monthly 
 ## 2. Product Performance Drivers ([Tableau Tab → prouduct_usd])
 - Key drivers:
   - Gaming Monitor  
-  - Apple AirPods / Headphones  
+  - Apple AirPods Headphones  
   - MacBook Air  
 - Lifecycle pattern:
   **Growth → Plateau → Decline (2021–2022)**  
